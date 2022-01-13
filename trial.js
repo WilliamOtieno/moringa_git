@@ -1,1 +1,3 @@
-console.log
+class backpack{
+    constructor(color,pocketsize)
+}
