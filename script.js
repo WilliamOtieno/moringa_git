@@ -1,1 +1,1 @@
-console.log(This is my js file)
+console.log(This is my js file);
